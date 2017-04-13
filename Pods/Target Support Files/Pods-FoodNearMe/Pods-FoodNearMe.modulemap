@@ -1,0 +1,6 @@
+framework module Pods_FoodNearMe {
+  umbrella header "Pods-FoodNearMe-umbrella.h"
+
+  export *
+  module * { export * }
+}
